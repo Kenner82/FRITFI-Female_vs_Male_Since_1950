@@ -2,6 +2,7 @@
 Resources/source_files/credits.csv
 Resources/source_files/keywords.csv
 Resources/clean_keywords.csv
+Resources/old_files
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
