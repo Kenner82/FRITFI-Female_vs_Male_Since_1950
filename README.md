@@ -4,7 +4,7 @@ Movies are a vehicle for audiences to experience different emotions and see new 
 
 ---
 ### Current Question
-Has there been an increase in the percentage of females employed in the film industry since 1950?
+Has there been an increase in the percentage of females vs.males employed in the film industry since 1950?
 
 ---
 ### Resources
@@ -129,6 +129,8 @@ Using Tableau connections, all of the .csv files produced in Postgres were linke
   * Female cast and crew data could be investigated for possible correlations. 
 * The cleaned files also contain information on average voting scores for each movie, which could be analyzed for relationships between scores and female cast or crew members.
 * The Movies Database API could be scraped for data on movies released between 2017 and present day. This additional data could be used to validate the predictions already made in this analysis, as well as provide additional data points to refine the analysis.
+* This analysis converted unknown gender assignments to male or female (when possible), dropped all unassigned employees, and compared the percentage of female to male employees. Future analyses could compare female vs. all other genders (including those that are unknown) and see how the results compare.
+* Different data cutoff dates could be explored (does the rate of growth change if we look at movies made after 1970? 1990? etc.)
 
 ---
 ### Additional Materials
