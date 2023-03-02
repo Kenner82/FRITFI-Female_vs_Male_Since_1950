@@ -1,7 +1,7 @@
 # Ignore large csv files
-Resources/credits.csv
-Resources/keywords.csv
-Resources/original_files_cleaned/clean_keywords.csv
+Resources/source_files/credits.csv
+Resources/source_files/keywords.csv
+Resources/clean_keywords.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
