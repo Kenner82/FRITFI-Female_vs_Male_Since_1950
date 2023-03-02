@@ -80,33 +80,15 @@ The linear regression model was applied to the following datasets.
 ##### *Linear regression model*
 ![directing_model](https://github.com/caseygomez/Capstone/blob/main/Images/directing_model.png)
 
-##### *Model calculated error*
-![directing_error](https://github.com/caseygomez/Capstone/blob/main/Images/directing_error.png)
-
-##### *Residuals graph*
-![directing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/directing_residuals.png)
-
 #### Percentage Of Female Crew In The Production Department Over Time
 
 ##### *Linear regression model*
 ![production_model](https://github.com/caseygomez/Capstone/blob/main/Images/production_model.png)
 
-##### *Model calculated error*
-![production_error](https://github.com/caseygomez/Capstone/blob/main/Images/production_error.png)
-
-##### *Residuals graph*
-![production_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/production_residuals.png)
-
 #### Percentage Of Female Crew In The Writing Department Over Time
 
 ##### *Linear regression model*
 ![writing_model](https://github.com/caseygomez/Capstone/blob/main/Images/writing_model.png)
-
-##### *Model calculated error*
-![writing_error](https://github.com/caseygomez/Capstone/blob/main/Images/writing_error.png)
-
-##### *Residuals graph*
-![writing_residuals](https://github.com/caseygomez/Capstone/blob/main/Images/writing_residuals.png)
 
 ---
 ### Tableau Visualizations
