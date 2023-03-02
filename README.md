@@ -4,7 +4,7 @@ Movies are a vehicle for audiences to experience different emotions and see new 
 
 ---
 ### Current Question
-Has there been an increase in the percentage of females vs.males employed in the film industry since 1950?
+Has there been an increase in the percentage of females (vs. males) employed in the film industry since 1950?
 
 ---
 ### Resources
